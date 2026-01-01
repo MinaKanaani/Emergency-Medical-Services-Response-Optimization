@@ -42,7 +42,6 @@ For each threshold value, the GA searches for a station ordering that minimizes 
 - Different threshold values lead to different optimal repositioning patterns.
 - More aggressive thresholds tend to reduce response time but increase operational movement.
 
-🖼️ *Figure: Best GA response time across different availability thresholds (illustrative run).*
 
 ---
 
@@ -62,7 +61,7 @@ This comparison highlights the trade-off between service performance and crew wo
 - Fatigue-aware evaluation identifies strategies that achieve more sustainable system performance.
 - The GA framework enables explicit exploration of this trade-off.
 
-🖼️ *Figure: Comparison of GA-optimized response time and fatigue-aware service time (normalized illustration).*
+
 
 ---
 
